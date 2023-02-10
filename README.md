@@ -1,2 +1,2 @@
-# Project-Implemetation-of-SNN
+# Project
 Comparative study of ANN and CNN
